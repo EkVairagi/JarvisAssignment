@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">JarvisAssignment</string>
+
+    <string name="take_photo">Take Photo</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+    <string name="new_user">New User</string>
+    <string name="name">Name: </string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="new_line">\n</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Phone</string>
+    <string name="chose_image">Choose Image</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="select">Select</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+
+    <string name="empty_fields">Name and Image must not be empty!</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob">Date Of Birth</string>
+    <string name="mobile_no">Mobile Number</string>
+    <string name="address_details">Address</string>
+    <string name="house_no">House no, flat, building, apartment</string>
+    <string name="area">Area, street, sector, village</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="pincode">Pincode</string>
+    <string name="education">Education</string>
+    <string name="level">Level</string>
+    <string name="stream">Stream</string>
+    <string name="start_year">Start Year</string>
+    <string name="end_year">End year</string>
+    <string name="college_name">Institution/College name</string>
+    <string name="add_more_education">Add more education</string>
+    <string name="add_more_mobile_no">Add more mobile no.</string>
+    <string name="add_more_address">Add more address</string>
+    <string name="hsc">HSC</string>
+    <string name="sse">SSC</string>
+    <string name="ug">UG</string>
+    <string name="pg">PG</string>
+    <string name="cse">CSE</string>
+    <string name="me">ME</string>
+</resources>

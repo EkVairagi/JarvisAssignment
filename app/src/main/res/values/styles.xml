@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/black</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="android:cursorVisible">true</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="boxStrokeWidthFocused">1dp</item>
+        <item name="hintTextColor">@color/black</item>
+        <item name="prefixTextAppearance">@style/PrefixTextAppearanceStyle</item>
+    </style>
+
+    <style name="PrefixTextAppearanceStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+</resources>
