@@ -14,5 +14,5 @@ class UserProfileRepository (private val userProfileDAO: UserProfileDAO) {
     suspend fun deleteUser(userProfile: UserProfile) = userProfileDAO.deleteUser(userProfile)
 
     fun getAllUser(): Flow<List<UserProfile>> =  userProfileDAO.getAll()
-    
+
 }
